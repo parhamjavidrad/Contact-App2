@@ -1,8 +1,33 @@
-# React + Vite
+# Contact App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+یک پروژه ساده برای مدیریت لیست مخاطبین با React
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ویژگی‌ها
+
+- افزودن، ویرایش و حذف مخاطب
+- فرم افزودن/ویرایش با اعتبارسنجی yup و مدیریت react-hook-form
+- استفاده از Context API برای مدیریت داده‌ها
+- جستجو بین مخاطبین
+
+---
+
+
+
+---
+
+## تکنولوژی‌ها و کتابخانه‌ها
+
+- React
+- Context API
+- react-hook-form
+- yup
+- @hookform/resolvers
+
+---
+
+## توسعه‌دهنده
+
+parhamjavidrad
+https://github.com/parhamjavidrad
